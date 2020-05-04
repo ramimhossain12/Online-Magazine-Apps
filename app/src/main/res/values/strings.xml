@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Magazin Apps</string>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="about1">Studying in Computer Science and Engineering at Daffodil International University. Passionate about android  and ios app development. Love to build android and ios application.</string>
+
+    <string name="about2">Email:ramim.cse.info@gmail.com</string>
+    <string name="about3">01852068420</string>
+</resources>
